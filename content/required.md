@@ -15,7 +15,7 @@ Statutes 1002.33(7)(d)1 and Statutes 1002.33(7)(d)1 and 1002.33(9)(p) indicate t
 * [Academic performance](/board)
 * [Annual budget](/board)
 * [Annual audit](/board)
-* [Programs offered at the school](/courses)
+* [Programs offered at the school](http://www.tcmstornadoes.com/1617/1617%20TCMS%20StudentParentHandbook.pdf)
  
 
 School's grade.1002.33(9)(p) indicate that the following items must appear on the website of every public school. You may click on each item below for a link to that information.  
