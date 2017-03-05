@@ -1,5 +1,5 @@
 +++
 title = "Terrace Community Middle School Board"
-type = "board"
+type = "custom"
 layout = "board"
 +++

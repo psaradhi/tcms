@@ -1,5 +1,5 @@
 +++
 title = "Terrace Community Middle School"
-type = "faculty"
+type = "custom"
 layout = "faculty"
 +++
