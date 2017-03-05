@@ -183,3 +183,16 @@ div#vision {
     color: orange !important;
     background-color: black !important;
 }
+
+.footer {
+  text-align: center;
+}
+.footer li {
+  display: inline;
+}
+.footer-info {
+  text-align: center;
+}
+.footer-info li {
+  display: inline-block;
+}
