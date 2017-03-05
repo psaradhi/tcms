@@ -61,3 +61,11 @@ Please remember to have your child turn in their Pre-Participation Physical befo
 
 If you have any questions, please don’t hesitate to contact me at: robert.negron@tcmstornadoes.com.
 
+### Links
+* [Required Physical](http://www.tcmstornadoes.com/services/ad-docs/Pre-Participation%20Sports%20Physical.pdf)
+* [Approved Vehicles List](http://www.tcmstornadoes.com/services/ad-docs/old/VEHICLES%20LIST%202014-2015%209-2014.pdf)
+* [Frequently Asked Questions](http://www.tcmstornadoes.com/services/ad-docs/FAQ.pdf)
+* [Parent/Player Contract Cross Country](http://www.tcmstornadoes.com/services/ad-docs/Parent_Player_Agreement%2016-17-Cross%20Country.pdf)
+* [Parent/Player Contract VB-BB-FF-Soccer](http://www.tcmstornadoes.com/services/ad-docs/Parent_Player_Agreement%2016-17.pdf)
+* [Game Day Locations](http://www.tcmstornadoes.com/services/ad-docs/Game%20Locations.pdf)
+
