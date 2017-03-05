@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+<div class="row">
+  <a name="{{ .Params.anchor }}" class="text-center"> <h2>{{ .Params.title }}</h2></a>
+  <br/>
+
+</div>
+
+<div class="bar"></div>
+
+<div class="row">
+  <br/>
+  <div class="text-justify ">{{ .Content }}</div>
+  <br/>
+</div>
+
+<div class="bar"></div>
+
+{{ partial "footer.html" . }}
